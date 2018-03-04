@@ -1,0 +1,9 @@
+Komut satirina erismek için siklikla sadece terminal olarak adlandirilan bir terminal emülatörü kullaniriz.
+Terminalde, $ türünden sonra: ls
+
+Terminalde Ilk Once $ isare gorunur. Buna Shell Cagirisi Deyilir(shell prompt). Terminal Bir kamandani Qebul etmeye Hazir Oldugunda ($) Gorunur.
+
+Terminalde (ls) - yazdiginizda , Komut Satiri icinde oldugunuz klasora baxir ve icindeki senedleri siyahiya alir.2014, 2015 dizinleri ve hardware.txt dosyasi cari dizinin mezmunudur.
+ls gosterilmis bir vezifeni yerine yetirmek ucun Komputere yonlednirilmis bir kamandanin numunesidir.
+
+Komut Satirini istifade ederken qovluqlari kataloq kimi goruruk. Kompda olan senedler ve kataloqlar bir fayl sistemine daxil edilir.

@@ -1,0 +1,8 @@
+
+Navigation
+
+ls - bize secdiyimiz folderin icerisindeki fayli gosterir hemcinin bu emeliyyati (dir) - ilede ede bilerik
+
+pwd - islediyiniz senedi cap etmek ucundur. pwd - icinde oldugunuz senedin adini, calisma senedi olaraq adlandirir.
+(ls) ile birlikde (pwd) kamandasi, sened sisteminde harda oldugunuzu gostermek ucun yararlidir.
+
